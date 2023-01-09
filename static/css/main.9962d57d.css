@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.App,body{height:100vh}.App{align-items:center;background:#2f4749;background:linear-gradient(90deg,#467e85,#2f4749);display:flex;flex-direction:column;min-width:580px}.pixel{height:30px;margin:0;width:30px}.pixels{display:grid;grid-template-columns:repeat(19,1fr);margin-right:360px;width:210px}.color-pixel{cursor:pointer;height:34px;margin:0 0 40px;width:34px}h1{cursor:pointer;font-family:Finger Paint,cursive;font-size:40px;margin:40px 0 30px;text-shadow:3px 0 0 #000}
+/*# sourceMappingURL=main.9962d57d.css.map*/
