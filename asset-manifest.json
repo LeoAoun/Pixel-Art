@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Pixel-Art/static/css/main.a028dc80.css",
-    "main.js": "/Pixel-Art/static/js/main.6edaa831.js",
+    "main.css": "/Pixel-Art/static/css/main.009a84b3.css",
+    "main.js": "/Pixel-Art/static/js/main.6bcc76c0.js",
     "index.html": "/Pixel-Art/index.html",
-    "main.a028dc80.css.map": "/Pixel-Art/static/css/main.a028dc80.css.map",
-    "main.6edaa831.js.map": "/Pixel-Art/static/js/main.6edaa831.js.map"
+    "main.009a84b3.css.map": "/Pixel-Art/static/css/main.009a84b3.css.map",
+    "main.6bcc76c0.js.map": "/Pixel-Art/static/js/main.6bcc76c0.js.map"
   },
   "entrypoints": [
-    "static/css/main.a028dc80.css",
-    "static/js/main.6edaa831.js"
+    "static/css/main.009a84b3.css",
+    "static/js/main.6bcc76c0.js"
   ]
 }
